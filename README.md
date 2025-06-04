@@ -20,7 +20,7 @@ This project is a simple web application that changes the background color rando
 
 ## Usage
 - Simply open the `index.html` file in any web browser.
-- Click anywhere on the screen to change the background color randomly.
+- Click on the Start button to change the background color randomly and stop Button to stop the random bg  color changung.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
